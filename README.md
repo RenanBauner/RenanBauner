@@ -1,6 +1,6 @@
 # Olá, eu sou [Seu Nome] 👋
 
-
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Java;Biomédico+%2B+Engenharia+de+Software;Tecnologia+aplicada+à+saúde)
 
