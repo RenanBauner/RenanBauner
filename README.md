@@ -1,11 +1,11 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Renan 👋
 
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Java;Biomédico+%2B+Engenharia+de+Software;Tecnologia+aplicada+à+saúde)
 
-[![Email](https://img.shields.io/badge/Email-seu@email.com-blue)](mailto:devrenanbauner@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--usuario-blue)](https://www.linkedin.com/in/renan-bauner)
+[![Email](https://img.shields.io/badge/Email-devrenanbauner@gmail.com-blue)](mailto:devrenanbauner@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-renan-bauner-blue)](https://www.linkedin.com/in/renan-bauner)
 
 </div>
 
