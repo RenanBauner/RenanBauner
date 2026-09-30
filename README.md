@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBauner&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Bauner&layout=compact&theme=tokyonight)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renan-Bauner&theme=tokyonight)
 
 ## 📫 Entre em contato
